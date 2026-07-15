@@ -95,11 +95,20 @@ Technical Support
 
 ---
 
-## 📫 Contact
+# 📫 Connect With Me
 
-- Email: spectaluzay@gmail.com, owolabioluyemi04@gmail.com
-- LinkedIn: www.linkedin.com/in/joshua-owolabi-377b2627b
-- GitHub: https://github.com/owolabioluyemi04
+📧 Email: spectaluzay@gmail.com owolabioluyemi04@gmail.com
+
+💼 LinkedIn: www.linkedin.com/in/joshua-owolabi-377b2627b
+
+📱 WhatsApp: +234 811 695 1812
+
+💬 WhatsApp Direct:
+https://wa.me/2348116951812
+
+🌐 Company: Spectaluzay Technologies (RC: 3662752)
+
+📍 Ibadan, Oyo State, Nigeria
 
 ---
 
