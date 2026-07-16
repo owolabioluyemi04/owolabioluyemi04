@@ -4,9 +4,7 @@
 
 </div>
 
-<div align="center">
 ## 👨‍💻 About Me
-</div>
 
 I am **Joshua Oluyemi Owolabi**, an experienced IT Network Engineer and ERP Supervisor with over 10 years of hands-on experience in network infrastructure, enterprise systems, and IT operations.
 
